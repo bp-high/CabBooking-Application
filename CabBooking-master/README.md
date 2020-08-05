@@ -6,13 +6,15 @@
 3. [Style check](#StyleCheck)
 4. [Continuous Integration](#ContinuousIntegration)
 
+
 <a name="UML"></a>
 # UML Sequence Diagrams
 1. Login: https://www.lucidchart.com/documents/view/d8309bf3-b10c-427f-9e34-758ba221632b/0_0
 2. Sign Up: https://www.lucidchart.com/documents/view/49c23443-1643-41bc-8952-106fe0bc1623/0_0
 3. Cab booking: https://www.lucidchart.com/documents/view/5d783536-934e-4248-91ff-8003453527ea/0_0
 4. Use Case: https://www.lucidchart.com/documents/view/f32da1ad-ae09-4e5d-815c-56202c0dedb2/0_0
-
+   
+   For more info check Design_pdf:- [Design](https://github.com/bp-high/CabBooking-Application/blob/master/CabBooking-master/Design/Design_pdf.pdf)
 <a name="Contributing"></a>
 # CONTRIBUTING
 <a name="Initial setup"></a>
